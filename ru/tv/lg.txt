@@ -1,0 +1,1 @@
+({cfg:console.log('CFG_EVAL_WORKED_LG_VIA_EMULATION')})
